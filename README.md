@@ -1,2 +1,2 @@
 # Waze-Report-Script
-This Script Is Practically Finished And Will Add The Files By End Of This Week
+This Script Is Finished But Is In BHRP So For The Time Being Will Remain Un Shared
